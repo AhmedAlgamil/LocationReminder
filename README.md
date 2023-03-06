@@ -1,2 +1,8 @@
-# DownloaderButton
-this repository have a painting loading button when you can choose one of libraries to download and when you press the butto the painting button change the status from click status to loading status and when the library downloaded the button changes 
+# LocationReminder
+
+this Repository contains GEOFence and map with Device Location Button to use your current location then select your location reminder
+when you are near to your selected location you will be alerted by notification 
+
+MVVM design pattern
+testing princples
+android testing with Espresso library
